@@ -1,0 +1,120 @@
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — копия (2)\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает с одним уровнем — копия — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — работает но криво — копия — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — вроде работает — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
