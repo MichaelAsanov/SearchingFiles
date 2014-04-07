@@ -118,3 +118,12 @@ C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти ра
 C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
 C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
 C:\Users\Михаил\Documents\GithubProjects\FileSearching — почти работает — копия — копия — копия — копия — копия\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\bin\Debug\FileSearching.exe.config
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\obj\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\obj\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\bin\Debug\FileSearching.exe
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\bin\Debug\FileSearching.pdb
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\obj\Debug\FileSearching.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\obj\Debug\FileSearching.FileSearchingForm.resources
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\obj\Debug\FileSearching.Properties.Resources.resources
+C:\Users\Михаил\Documents\SearchingFiles\FileSearching\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache

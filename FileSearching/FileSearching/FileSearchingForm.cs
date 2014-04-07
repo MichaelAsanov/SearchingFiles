@@ -172,26 +172,23 @@ namespace FileSearching
             folderBrowserDialog1.ShowDialog();
         }
 
-      
-        /// <summary>
-        /// Приходит по всем файлам с заданным шаблоном имени, добавляет их в treeView и выводит данные о процессе 
-        /// обработки файлов на форму
-        /// </summary>
-        public void SetFilesTreeView()
+        public void SetFilesTreeView(string path)
         {
-            try
+            //находим специальный шаблон для метода Directory.EnumerateFiles()
+            var patternString = string.Format("*{0}*", FileNamePattern);
+
+            //находим все поддиректории в заданной директории
+            var directories = Directory.EnumerateDirectories(path, "*");
+
+            //находим файлы с заданным шаблоном имени в данной директории и во всех поддиректориях
+            var files = Directory.EnumerateFiles(path, patternString);
+
+            foreach (var file in files)
             {
-                //находим специальный шаблон для метода Directory.EnumerateFiles()
-                var patternString = string.Format("*{0}*", FileNamePattern);
-
-                //находим файлы с заднным шаблоном имени в данной директории и во всех поддиректориях
-                var files = Directory.EnumerateFiles(StartDirectory, patternString, SearchOption.AllDirectories);
-
-
-                foreach (var file in files)
+                try
                 {
                     //если содержимое файла содержит заданный шаблон
-                    if (file.ThereIsTextInFile(TextInFile))                   
+                    if (file.ThereIsTextInFile(TextInFile))
                     {
                         //то добавляем его в treeView
                         AddPathNodeToTreeView(file);
@@ -202,13 +199,13 @@ namespace FileSearching
 
                     //Выводим на форму прошедшее время обработки
                     TimeLabelDelegate timeLabelDelegate = () => { timeLabel.Text = _stopwatch.Elapsed.ToString(); };
-                    this.Invoke(timeLabelDelegate);               
+                    this.Invoke(timeLabelDelegate);
 
                     //Выводим на форму текущий обрабатываемый файл
                     CurrentHandlingFileTextBoxDelegate currentHandlingFileTextBoxDelegate = () =>
-                    {                        
+                    {
                         currentHandlingFileTextBox.Text = file;
-                        
+
                         //если поток стоит, значит, ничего не обрабатываем
                         if (_thread.ThreadState == ThreadState.Stopped)
                             currentHandlingFileTextBox.Text = "";
@@ -220,18 +217,46 @@ namespace FileSearching
                     {
                         numberOfHandledFilesLabel.Text = _numberOfHandledFiles.ToString();
                     };
-                    this.Invoke(numberOfHandledFilesLabelDelegate);                   
-                }
-                
-                CurrentHandlingFileTextBoxDelegate currentHandlingFileTextBoxDelegate1 = ()=>
-                {
-                    currentHandlingFileTextBox.Text = "";
-                };
-                this.Invoke(currentHandlingFileTextBoxDelegate1);
+                    this.Invoke(numberOfHandledFilesLabelDelegate);
 
-                //все файлы обработали, останавливаем таймер
-                TimerDelegate stopTimerDelegate = () => timer1.Enabled = false;
-                this.Invoke(stopTimerDelegate);
+                    CurrentHandlingFileTextBoxDelegate currentHandlingFileTextBoxDelegate1 = () =>
+                    {
+                        currentHandlingFileTextBox.Text = "";
+                    };
+                    this.Invoke(currentHandlingFileTextBoxDelegate1);
+
+                    //все файлы обработали, останавливаем таймер
+                    TimerDelegate stopTimerDelegate = () => timer1.Enabled = false;
+                    this.Invoke(stopTimerDelegate);
+                }
+                catch (UnauthorizedAccessException)
+                {
+                    continue;                    
+                }
+            }
+
+            foreach (var directory in directories)
+            {
+                try
+                {
+                    SetFilesTreeView(directory);
+                }
+                catch (UnauthorizedAccessException)
+                {
+                    continue;
+                }
+            }
+        }
+      
+        /// <summary>
+        /// Приходит по всем файлам с заданным шаблоном имени, добавляет их в treeView и выводит данные о процессе 
+        /// обработки файлов на форму
+        /// </summary>
+        public void SetFilesTreeView()
+        {
+            try
+            {              
+                SetFilesTreeView(StartDirectory);              
             }
             catch (UnauthorizedAccessException ex)
             {
@@ -416,6 +441,11 @@ namespace FileSearching
         private void timer1_Tick(object sender, EventArgs e)
         {
             timeLabel.Text = _stopwatch.Elapsed.ToString();
+        }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+
         }
         
     }
